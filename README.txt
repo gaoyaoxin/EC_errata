@@ -8,3 +8,7 @@ line 15
 P45, Book 4
 line -6
 "The fallacy" should be "the fallacy"
+
+P46, Book 4
+line 3
+"The fallacy" should be "the fallacy"
