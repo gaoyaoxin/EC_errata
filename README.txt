@@ -12,3 +12,7 @@ line -6
 P46, Book 4
 line 3
 "The fallacy" should be "the fallacy"
+
+P76, Book 4
+line -7
+"This fallacy" should be "this fallacy"
