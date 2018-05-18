@@ -2,7 +2,7 @@
 基于英语写作教程4——批判思维与议论文 / 主编张在新，北京 : 外语教学与研究出版社, 2010
 
 P5, Book 1
-line 4, 5, 7
+line 2, 4, 5, 7
 The three bold words should be italic
 
 P38, Book 1
