@@ -16,3 +16,7 @@ line 3
 P76, Book 4
 line -7
 "This fallacy" should be "this fallacy"
+
+P97, Book 4
+line 14
+"Weasels are" should be "weasels are"
