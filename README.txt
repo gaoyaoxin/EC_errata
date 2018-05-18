@@ -1,6 +1,10 @@
 基于英语写作教程1——创新思维与写前技巧 / 主编张在新，北京 : 外语教学与研究出版社, 2010
 基于英语写作教程4——批判思维与议论文 / 主编张在新，北京 : 外语教学与研究出版社, 2010
 
+P5, Book 1
+line 4, 5, 7
+The three bold words should be italic
+
 P38, Book 1
 line 15
 "the kid calls him" should be "he calls his son"
